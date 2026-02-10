@@ -1,0 +1,1 @@
+echo "# template-react-admin" >> README.md
